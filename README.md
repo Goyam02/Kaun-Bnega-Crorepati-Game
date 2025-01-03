@@ -46,9 +46,9 @@ pip install colorama
 pip install emoji
 ```
 
-Run the Game:
+## Run the Game:
 
-Clone the repository and execute the script:
+##### Clone the repository and execute the script:
 
 python kbc.py
 
